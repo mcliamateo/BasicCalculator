@@ -6,28 +6,24 @@ namespace CSharpTraining
     {
         public int Addition(int a, int b)
         {
-            int sum = 0;
-            sum = a + b;
+            int sum = a + b;
             return sum;
         }
         public int Subtraction(int a, int b)
         {
-            int difference = 0;
-            difference = a - b;
+            int difference = a - b;
             return difference;
         }
 
         public int Multiplication(int a, int b)
         {
-            int product = 0;
-            product = a * b;
+            int product = a * b;
             return product;
         }
 
         public double Division(int a, int b)
         {
-            double qoutient = 0;
-            qoutient = (double)a / b;
+            double qoutient = (double)a / b;
             return qoutient;
         }
 
