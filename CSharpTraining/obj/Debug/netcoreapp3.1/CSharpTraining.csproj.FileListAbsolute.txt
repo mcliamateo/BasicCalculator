@@ -1,0 +1,14 @@
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp3.1\CSharpTraining.exe
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp3.1\CSharpTraining.deps.json
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp3.1\CSharpTraining.runtimeconfig.json
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp3.1\CSharpTraining.runtimeconfig.dev.json
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp3.1\CSharpTraining.dll
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\bin\Debug\netcoreapp3.1\CSharpTraining.pdb
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp3.1\CSharpTraining.csproj.AssemblyReference.cache
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp3.1\CSharpTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp3.1\CSharpTraining.AssemblyInfoInputs.cache
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp3.1\CSharpTraining.AssemblyInfo.cs
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp3.1\CSharpTraining.csproj.CoreCompileInputs.cache
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp3.1\CSharpTraining.dll
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp3.1\CSharpTraining.pdb
+C:\Users\mlvma\source\repos\CSharpTraining\CSharpTraining\obj\Debug\netcoreapp3.1\CSharpTraining.genruntimeconfig.cache
