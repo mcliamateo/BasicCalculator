@@ -41,28 +41,33 @@ namespace CSharpTraining
             }
         }
 
-        public void Operation(int operationNumber, int a, int b)
+        public double Operation(int operationNumber, int a, int b)
         {
             switch (operationNumber)
             {
                 case 1:
                     int sum = Addition(a, b);
                     Console.WriteLine($"{a} + {b} = {sum}");
+                    return sum;
                     break;
                 case 2:
                     int difference = Subtraction(a, b);
                     Console.WriteLine($"{b} - {a} = {difference}");
+                    return difference;
                     break;
                 case 3:
                     int product = Multiplication(a, b);
                     Console.WriteLine($"{b} x {a} = {product}");
+                    return product;
                     break;
                 case 4:
                     double qoutient = Math.Round(Division(a, b), 2);
                     Console.WriteLine($"{b} / {a} = {qoutient}");
+                    return qoutient;
                     break;
                 default:
                     Console.WriteLine("WRONG INPUT");
+                    return 0; 
                     break;
             }
         }
@@ -120,10 +125,9 @@ namespace CSharpTraining
             int a = program.StringToInteger(input1);
             int b = program.StringToInteger(input2);
 
-            program.Operation(choiceNumber, a, b);
-
+            double currentValue = program.Operation(choiceNumber, a, b);
+            Console.WriteLine($"{currentValue}");
         }
 
-        
     }
 }
